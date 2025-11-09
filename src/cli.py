@@ -9,10 +9,19 @@ to make data transformation accessible via the terminal.
 import ast
 import click
 from .preprocessing import (
-    remove_missing_values, fill_missing_values, normalize_values,
-    standardize_values, clip_values, convert_to_integers,
-    logarithmic_transform, tokenize_text, select_alphanumeric,
-    remove_stopwords, shuffle_list, flatten_list, remove_duplicates
+    remove_missing_values,
+    fill_missing_values,
+    normalize_values,
+    standardize_values,
+    clip_values,
+    convert_to_integers,
+    logarithmic_transform,
+    tokenize_text,
+    select_alphanumeric,
+    remove_stopwords,
+    shuffle_list,
+    flatten_list,
+    remove_duplicates,
 )
 
 
