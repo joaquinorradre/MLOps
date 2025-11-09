@@ -47,12 +47,7 @@ MLOps/
    uv sync .
    ```
 
-3. **Run the main program**:
-   ```bash
-   python main.py
-   ```
-
-4. **Use the CLI tool for data preprocessing**:
+3. **Use the CLI tool for data preprocessing**:
    ```bash
    python -m src.cli --help
    ```
