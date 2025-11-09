@@ -1,6 +1,9 @@
 # MLOps - Fundamentals of Continuous Integration
 
 This project is part of an academic practice to learn the **fundamentals of Continuous Integration (CI)**.
+## 👨‍🎓 Author
+
+**Joaquín Orradre** - Student at UPNA
 
 ## 🎯 Practice Objective
 
@@ -144,14 +147,3 @@ uv run python -m pytest -v
 uv run python -m pytest -v --cov=src
 
 ```
-
-- How to structure a Python project following good practices
-- MLOps fundamentals applied to a real project
-
-## 👨‍🎓 Author
-
-**Joaquín Orradre** - Student practicing MLOps and Continuous Integration
-
----
-
-*This is an educational project focused on learning the fundamentals of Continuous Integration and MLOps best practices.*
